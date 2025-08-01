@@ -55,8 +55,7 @@ Thumbs.db
 *.hdf5
 *.joblib
 
-.ipynb_checkpoints/
-*.ipynb
+
 
 *.csv
 *.xlsx
